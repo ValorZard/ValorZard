@@ -1,4 +1,4 @@
-### Hi there 👋
+### Heyo there, I'm Srayan Jana👋
 
 <!--
 **ValorZard/ValorZard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Srayan Jana. A programmer, writer, and game designer. he/they.
+I'm a programmer, writer, and game designer. 
+
+pronouns: he/they. bi/pan
 
 I am a third-year University of California, Irvine Computer Game Science major interested in working in game development. I have experience programming in game engines such as Godot, Unity, Unreal, Bevy, and LibGDX. I also work on multiple personal projects, including indie games, game jams, short stories, and webcomics.
 
