@@ -21,6 +21,8 @@ he/they and bi/pan
 
 I am a third-year University of California, Irvine Computer Game Science major interested in working in game development. I have experience programming in game engines such as Godot, Unity, Unreal, Bevy, and LibGDX. I also work on multiple personal projects, including indie games, game jams, short stories, and webcomics.
 
+Portfolio: https://srayanjana.weebly.com/
+
 Linkden: https://www.linkedin.com/in/srayan-jana-ba2aa3102
 
 Itch: https://valorzard.itch.io/
