@@ -19,7 +19,7 @@ I'm a programmer, writer, and game designer.
 
 he/they and bi/pan
 
-I am a fourth-year University of California, Irvine Computer Game Science major interested in working in game development. I have experience programming in game engines such as Godot, Unity, Unreal, Bevy, and LibGDX. I also work on multiple personal projects, including indie games, game jams, short stories, and webcomics.
+I am a graduate of the University of California, Irvine Computer Game Science major. I have experience programming in game engines such as Godot, Unity, Unreal, Bevy, and LibGDX. I also work on multiple personal projects, including indie games, game jams, short stories, and webcomics.
 
 Portfolio: https://srayanjana.weebly.com/
 
