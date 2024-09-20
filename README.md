@@ -15,16 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a programmer, writer, and game designer. 
-
-he/they and bi/pan
-
-I am a graduate of the University of California, Irvine Computer Game Science major. I have experience programming in game engines such as Godot, Unity, Unreal, Bevy, and LibGDX. I also work on multiple personal projects, including indie games, game jams, short stories, and webcomics.
+I'm a programmer, writer, and game designer and a graduate of the University of California, Irvine Computer Game Science major. 
 
 Portfolio: https://srayanjana.weebly.com/
 
-Linkden: https://www.linkedin.com/in/srayan-jana-ba2aa3102
+Linkden: https://www.linkedin.com/in/srayan-jana
 
 Itch: https://valorzard.itch.io/
-
-current personal project(s): learning art, working on a 3D sonic-inspired platformer.
